@@ -1,0 +1,25 @@
+{
+  "name": "my-sketches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "canvas-sketch-cli": "^1.0.3"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "canvas-sketch": "^0.7.5",
+    "canvas-sketch-util": "^1.10.0",
+    "color-interpolate": "^1.0.5",
+    "colormap": "^2.3.2",
+    "eases": "^1.0.8",
+    "riso-colors": "^1.0.1",
+    "tweakpane": "^3.1.0"
+  }
+}
